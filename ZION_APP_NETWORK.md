@@ -1,18 +1,8 @@
-# 🕸️ Zion AI App Network — Interlinks
+# Zion App Network
 
-Part of the **Zion AI App Network** — 840+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+Part of the Zion AI App Network: https://github.com/Zion-support/zion-app-network
+Live: https://ziontechgroup.com/esignature-flow-tracker/
 
-- 🚀 **This app (live):** https://ziontechgroup.com/esignature-flow-tracker/
-- 🗂️ **Network hub (GitHub):** https://github.com/Zion-support/zion-app-network
-- 🌐 **Network hub (live):** https://ziontechgroup.com/zion-app-network/
-- 📓 **Apps directory:** https://ziontechgroup.com/apps/
-- 💎 **Free AI Discovery (8 questions, 2 min, instant results):** https://ziontechgroup.com/app-network-discovery.html
-- 📰 **What's new:** https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md
+Sibling apps (Batch 73 — Legal & Contract AI): nda-review-ai, legal-risk-scorer, contract-clause-extractor, litigation-hold-manager, privacy-request-handler.
 
-## Related apps
-- Contract Obligation Tracker → https://ziontechgroup.com/contract-obligation-tracker/
-- Contract Renewal Radar → https://ziontechgroup.com/contract-renewal-radar/
-- Contract Clause Sentry → https://ziontechgroup.com/contract-clause-sentry/
-
-## Commercial
-Questions or a tailored rollout? commercial@ziontechgroup.com · https://ziontechgroup.com/contact/
+<!-- retrigger 2026-10-05T03:12Z -->
