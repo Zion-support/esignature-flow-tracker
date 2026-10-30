@@ -29,4 +29,4 @@ Part of the **Zion App Network — Batch 73 (Legal & Contract AI)** by [Zion Tec
 - [contract-clause-extractor](https://github.com/Zion-support/contract-clause-extractor) — post-sign extraction
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com/ · Start with a [$99 Discovery](https://ziontechgroup.com/discovery/)
+© 2026 Zion Tech Group · https://ziontechgroup.com/ · Start with [free AI Discovery](https://ziontechgroup.com/discovery/)
